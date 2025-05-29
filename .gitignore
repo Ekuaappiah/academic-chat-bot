@@ -3,6 +3,26 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+<<<<<<< HEAD
+=======
+.DS_Store
+.idea/
+
+
+# Ignore folders:
+data/
+db/
+
+Makefile
+
+# Ignore Pipenv files (if you're using requirements.txt instead)
+Pipfile
+Pipfile.lock
+
+main.py
+
+
+>>>>>>> dev
 # C extensions
 *.so
 
@@ -171,4 +191,8 @@ cython_debug/
 .ruff_cache/
 
 # PyPI configuration file
+<<<<<<< HEAD
 .pypirc
+=======
+.pypirc
+>>>>>>> dev
