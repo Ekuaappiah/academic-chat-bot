@@ -19,9 +19,6 @@ Makefile
 Pipfile
 Pipfile.lock
 
-main.py
-
-
 >>>>>>> dev
 # C extensions
 *.so
